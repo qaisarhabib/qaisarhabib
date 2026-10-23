@@ -1,66 +1,48 @@
-<div align="center">
-  <h1 align="center">Hi, I'm Qaiser Habib <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=338BFD&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%7C+MERN+Specialist;DevOps+Enthusiast+%7C+UI/UX+Focused+Builder;Building+Fitsty+Virtual+Fitting+Room;Learning+Python+%26+Exploring+New+Tech" alt="Typing SVG" />
-  </a>
-  
-  <p><b>Building scalable, user-friendly web applications with modern technologies, clean architecture, and reliable deployment workflows.</b></p>
-  
-  <p>
-    <a href="https://www.linkedin.com/in/qaisar-habib-827075203/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=linkedin" />
-    </a>
-    &nbsp;&nbsp;
-    <a href="mailto:qaiserhabib6@gmail.com" target="_blank">
-      <img src="https://skillicons.dev/icons?i=gmail" />
-    </a>
-  </p>
-</div>
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/banner-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="./assets/banner-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
+  <img src="./assets/banner.svg" alt="Qaiser Habib — Software Engineer building production-ready software and AI-powered applications." width="1200">
+</picture>
 
----
+# Full-Stack Software Engineer
 
-## 🚀 About Me
+**Production-ready applications · AI-assisted engineering · Faster delivery**
 
-Full stack developer focused on building reliable, performant web applications using the MERN stack and modern tooling. I care about clean architecture, intuitive UI/UX, and smooth deployment pipelines — owning the full lifecycle from development to production.
+I build web products and AI-powered workflows across frontend, backend, APIs, and real-time systems. I use AI-assisted development to move faster, then analyze, review, debug, optimize, and validate the work for quality, security, performance, and maintainability. I also integrate LLMs, agents, and retrieval workflows into practical applications.
 
-Currently exploring **Python, DevOps practices, and computer vision** to build more scalable and intelligent systems.
+**Open to remote roles and contract projects.**<br>
+Pakistan · UTC+5
 
-**🔭 Current Focus:** Building **Fitsty – Virtual Fitting Room** and production-ready MERN stack applications  
-**💼 Portfolio:** [qaiser-portfolio-orpin.vercel.app](https://qaiser-portfolio-orpin.vercel.app/)
-**💻 GitHub Activity:** [qaiserhabib-work](https://github.com/qaiserhabib-work)
+[Email](mailto:qaiserhabib6@gmail.com) · [LinkedIn](https://www.linkedin.com/in/qaisarhabib/) · [GitHub](https://github.com/qaisarhabib)
 
----
+## Selected experience
 
-## 🛠 Tech Stack
+- **Focus IT Services · Frontend Developer · 2025–present:** Build production React and Next.js features, integrate LLM services with application workflows, and improve performance with code splitting, lazy loading, and caching.
+- **Single Solution · Full-Stack Developer · 2023–2025:** Built and optimized full-stack applications, improved architecture and responsiveness, and contributed to AI-powered features and LLM workflows.
+- **SoftRobo · Frontend Developer Intern · 2022–2023:** Built responsive web interfaces with attention to accessibility and usability.
 
-| Area | Technologies |
-|------|--------------|
-| **Frontend** | React, Next.js, JavaScript, HTML5, CSS3, Tailwind CSS, Bootstrap |
-| **Backend** | Node.js, Express.js |
-| **Database** | MongoDB, MySQL, Firebase |
-| **DevOps & Cloud** | AWS, Docker, Vercel, Linux, CI/CD |
-| **Design** | Figma, Adobe XD |
-| **Learning** | Python, Advanced DevOps, Computer Vision |
+## Project highlights
 
----
+- **AI customer support platform:** Multi-tenant chat with tool-based order and return handling, agent handoff, a live dashboard, and an embeddable branded widget.
+- **HR management system:** Employee, attendance, leave, payroll, access control, and reporting workflows.
+- **UndrRight legal assistant:** AI-powered legal workflows with responsive interfaces and centralized application state.
 
-## 💬 Let's Connect
+## Technologies
 
-I'm open to collaborating on **Full Stack Web Applications**, **Next.js Architecture**, **DevOps & Cloud Deployment**, **Computer Vision Integrations**, or **Scalable SaaS Products**.
+| Area | Tools |
+| --- | --- |
+| Languages | JavaScript, TypeScript, Python, SQL, C/C++ |
+| Web | React, Next.js, Tailwind CSS |
+| Backend & APIs | Node.js, Express.js, NestJS, REST, GraphQL, Socket.io, SSE |
+| Data & state | MongoDB, PostgreSQL, Prisma, React Query, Redux Toolkit, Zustand |
+| AI | LLM APIs, RAG, agents, tool calling, Ollama |
+| Cloud & workflow | Docker, Kubernetes, AWS, Linux, CI/CD, Git, GitHub |
 
-📧 **qaiserhabib6@gmail.com**
+## Education
 
----
+**B.S. in Software Engineering** · Minhaj University Lahore · 2017–2021
 
-<div align="center">
-  
-  ### 🛠️ Tools I Use Daily
-  
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,vercel,postman,figma,docker" />
-  
-  <br/><br/>
-  
-  <img src="https://komarev.com/ghpvc/?username=qaiserhabib&label=Profile%20views&color=0e75b6&style=flat" />
-  
-</div>
+## Get in touch
+
+[qaiserhabib6@gmail.com](mailto:qaiserhabib6@gmail.com) · [LinkedIn](https://www.linkedin.com/in/qaisarhabib/)
